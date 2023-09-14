@@ -1,0 +1,8 @@
+h1.header {
+    border-bottom: 2px solid black;
+    display: inline-block;
+}
+body {
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+  }
